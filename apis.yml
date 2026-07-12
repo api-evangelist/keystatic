@@ -43,12 +43,16 @@ apis:
       - type: GitHub
         url: https://github.com/Thinkmill/keystatic
 common:
+  - type: DomainSecurity
+    url: security/keystatic-domain-security.yml
   - type: Website
     url: https://keystatic.com/
   - type: Documentation
     url: https://keystatic.com/docs
   - type: GitHub
     url: https://github.com/Thinkmill/keystatic
+  - type: Blog
+    url: https://keystatic.com/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
