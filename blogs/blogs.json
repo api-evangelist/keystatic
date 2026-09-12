@@ -2,23 +2,21 @@
   "repo": "keystatic",
   "feeds": [
     {
-      "source": "https://keystatic.com/blog",
-      "feed_url": "https://keystatic.com/blog",
-      "title": "",
-      "saved": 0,
-      "method": "none",
-      "nature": "vendor-blog",
-      "nature_basis": "path_blog"
-    },
-    {
       "source": "https://github.com/Thinkmill/keystatic",
       "feed_url": "https://github.com/Thinkmill/keystatic",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://keystatic.com/blog",
+      "feed_url": "https://keystatic.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 1,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
