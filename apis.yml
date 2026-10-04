@@ -9,15 +9,20 @@ description: >-
   Remix, and React Server Components.
 type: Index
 deliveryModel:
-  model: unknown
-  open_source: false
+  model: self-hosted
+  license: MIT
+  license_evidence:
+    repo: thinkmill/keystatic
+    spdx: MIT
+    stars: 2411
+  open_source: true
   commercial: false
   callable_host: false
-  label: Delivery model not determined — needs a product licence on record
-  confidence: low
+  label: Self-hosted open source · you run it yourself
+  confidence: medium
   source:
-  - none
-  generated: '2026-08-28'
+  - repository-license
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: freemium
@@ -38,7 +43,7 @@ tags:
   - CMS
   - Content Management
   - Git-based
-  - Open-Source
+  - Open Source
   - SDK
   - Static Sites
 tags_raw:
@@ -48,6 +53,7 @@ tags_raw:
   - Open Source
   - SDK
   - Static Site
+  - Open-Source
 created: '2025-02-06'
 modified: '2026-04-28'
 url: https://raw.githubusercontent.com/api-evangelist/keystatic/refs/heads/main/apis.yml
